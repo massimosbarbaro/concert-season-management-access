@@ -4,7 +4,7 @@
 
 *Gestione delle stagioni concertistiche: repertorio, esecutori, sedi e biglietti*
 
-**Microsoft Access 97** · 2001 · version 1.0  
+**db** · 2001 · version 1.0  
 Author: **Massimo Sbarbaro** ([ORCID 0009-0006-8965-9013](https://orcid.org/0009-0006-8965-9013))
 
 ## Overview
@@ -47,7 +47,7 @@ The database is published **empty**: every table has been emptied and the file c
 
 Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*). The release is archived on Zenodo with the DOI [10.5281/zenodo.23205245](https://doi.org/10.5281/zenodo.23205245).
 
-> Sbarbaro, Massimo. 2001. *Concert season management: repertoire, performers, venues and tickets*. Software (Microsoft Access 97, 2001), version 1.0. Zenodo. https://doi.org/10.5281/zenodo.23205245.
+> Sbarbaro, Massimo. 2001. *Concert season management: repertoire, performers, venues and tickets*. Software (db, 2001), version 1.0. Zenodo. https://doi.org/10.5281/zenodo.23205245.
 
 ## License
 

@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you refer to this software, please cite it as below."
 type: software
-title: "Concert season management: repertoire, performers, venues and tickets (Microsoft Access 97, 2001)"
+title: "Concert season management: repertoire, performers, venues and tickets (db, 2001)"
 version: "1.0"
 abstract: "A database for planning and documenting concert seasons. It links composers, collections and works to the concerts of each season, records performers and their instruments, venues, planned and actual dates, and manages ticket types, prices, seating areas and attendance."
 authors:
